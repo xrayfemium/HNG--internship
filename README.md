@@ -1,1 +1,1 @@
-# HNG--internship
+# HNG-internship
